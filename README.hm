@@ -20,5 +20,5 @@ Click Save
 Wait 1-2 minutes for deployment
 Your game will be live at: https://YourName.github.io/fisch-game
 Press Z in-game to access your Command Studio
-You're all set! When you want to publish, just run npm run deploy and follow steps 6-7.
+You're all set! When you want to publish, just run npm deploy  and follow steps 6-7.
 
